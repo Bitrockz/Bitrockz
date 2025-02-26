@@ -5,9 +5,9 @@
 </head>
 <body>
 <div id="header" align="center">
-  <img src="https://i.gifer.com/3V3X.gif" width="18%" />
+  <img src="https://i.gifer.com/1kLR.gif" width="22%" />
 </div>
-<div class="header">
+<div class="header" align="center">
     <h1>Welcome to my room</h1>
     
 </div>
